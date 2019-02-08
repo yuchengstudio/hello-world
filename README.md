@@ -6,6 +6,9 @@ add some extend description
 
 
 # SAMD20介绍
-Atmel: Introduction to the SAM D20 ARM Cortex-M0+ MCU
+## Atmel: Introduction to the SAM D20 ARM Cortex-M0+ MCU
 https://www.youtube.com/watch?v=YYYaoWWhTn4
+
+## Atmel: SAM D20 - API + Sync
+https://www.youtube.com/watch?v=UcMmPkChm7k
 
