@@ -12,3 +12,9 @@ https://www.youtube.com/watch?v=YYYaoWWhTn4
 ## Atmel: SAM D20 - API + Sync
 https://www.youtube.com/watch?v=UcMmPkChm7k
 
+## Atmel: FreeRTOS Demonstration
+https://www.youtube.com/watch?v=jeegzh_24sU
+
+## How to Choose your ARM Cortex-M Processor
+https://www.youtube.com/watch?v=qvrmOXtOpvw
+
